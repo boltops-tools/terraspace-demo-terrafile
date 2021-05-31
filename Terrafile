@@ -1,0 +1,6 @@
+# Starter Terrafile
+# More info: https://terraspace.cloud/docs/terrafile/
+
+org "boltops-tools" # set default github org
+
+mod "s3", source: "boltops-tools/terraform-aws-s3"

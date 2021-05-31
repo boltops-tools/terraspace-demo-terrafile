@@ -1,0 +1,6 @@
+---
+s3:
+  source: boltops-tools/terraform-aws-s3
+  type: git
+  url: https://github.com/boltops-tools/terraform-aws-s3
+  sha: 0d50563b57b8ef65051083a95d976eda86e09531

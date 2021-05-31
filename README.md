@@ -2,6 +2,9 @@
 
 This is a Terraspace project to show how to use a Terrafile.
 
+* This helps answer this forum question: [Module with terrafile usage question](https://community.boltops.com/t/module-with-terrafile-usage-question/696)
+* [Terraspace Docs: Terrafile](https://terraspace.cloud/docs/terrafile/)
+
 ## Terrafile
 
 The [Terrafile](Terrafile) in this repo is very simple.
